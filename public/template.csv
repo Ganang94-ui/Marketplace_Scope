@@ -1,0 +1,5 @@
+marketplace,external_id,title,category,shop,url,date,price,sold_total,rating,review_count
+Shopee,CONTOH-001,Nama Produk Contoh,Beauty,Toko Contoh,https://shopee.co.id/...,2026-11-01,89000,1200,4.8,310
+Shopee,CONTOH-001,Nama Produk Contoh,Beauty,Toko Contoh,https://shopee.co.id/...,2026-11-08,85000,1650,4.8,342
+TikTok Shop,CONTOH-002,Nama Produk Contoh,Beauty,Toko Lain,https://www.tiktok.com/...,2026-11-01,85000,2000,4.7,400
+TikTok Shop,CONTOH-002,Nama Produk Contoh,Beauty,Toko Lain,https://www.tiktok.com/...,2026-11-08,85000,3100,4.7,455
